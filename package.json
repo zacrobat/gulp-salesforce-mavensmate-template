@@ -1,0 +1,14 @@
+{
+  "name": "gulp-salesforce-template",
+  "version": "1.0.0",
+  "description": "gulp template for ui",
+  "license": "MIT",
+  "repository": "https://github.com/zacrobat/gulp-salesforce-source-template",
+  "author": {
+    "name": "Zac Cobb",
+    "url": "zacpcobb.com"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+  }
+}
